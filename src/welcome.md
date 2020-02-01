@@ -14,13 +14,8 @@ of the All Hands will vary, but that's the idea.
 
 ## When and where is the Rust All Hands?
 
-This year the all hands event will be hosted by the [University of
-Macedonia][uom] in **Thessaloniki, Greece** from the **16th to 20th** of March
-2020. See our [location page] for further information as well as
-hotel recommendations.
-
-[uom]: https://www.uom.gr/en
-[location page]: ./location.html
+This year the all hands event for 2020 has been cancelled, we're currently
+figuring out when to have the next event.
 
 ## Am I eligible to attend?
 
